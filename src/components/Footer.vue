@@ -1,7 +1,7 @@
 <template>
   <div class="flex justify-center items-center">
       <div class="h-20 bottom-o py-8 flex">
-          <p class="pr-2"> &copy; Rodolfo Roman</p>
+          <p class="pr-2"> &copy; Nour Hussein </p>
          <!-- <a class="githubCircle" href="https://github.com/rromanv" target="_blank"><GithubCircle /> /</a> 
           <a class="facebook" href="#" target="_blank"><Facebook /></a>
           <a class="twitter" href="#" target="_blank"><Twitter /></a> -->
