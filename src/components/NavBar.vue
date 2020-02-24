@@ -1,5 +1,5 @@
 <template>
-  <nav class="nav w-screen z-20 text-white" :class="isHome ? '' : 'shadow-2xl bg-red-800'">
+  <nav class="nav w-screen z-20 text-white" :class="isHome ? '' : 'shadow-2xl bg-blue-800'">
     <div class="left">
       <span class="font-light text-3x1">
         My
