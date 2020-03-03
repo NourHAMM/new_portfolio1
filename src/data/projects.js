@@ -41,6 +41,12 @@ const projects = [
         hashtags:['todo','vue.js','javascript','tailwind'],
         url:'https://vuetodo.rodolforoman.xyz/'
 },
-   
+{
+    name: 'AA',
+    description: 'A Todo Application in Vue.js and TailwindCSS',
+    image: vuetodo,
+    hashtags:['todo','vue.js','javascript','tailwind'],
+    url:'https://vuetodo.rodolforoman.xyz/'
+},
 ]
 export default projects
