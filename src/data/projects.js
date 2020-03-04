@@ -3,6 +3,7 @@ import todob  from '../assets/projects/02.png'
 import todot  from '../assets/projects/03.png'
 import inventory  from '../assets/projects/04.png'
 import vuetodo  from '../assets/projects/05.png'
+import vuetodo  from '../assets/projects/06.png'
 
 
 const projects = [
@@ -42,11 +43,11 @@ const projects = [
         url:'https://vuetodo.rodolforoman.xyz/'
 },
 {
-    name: 'AA',
-    description: 'A Todo Application in Vue.js and TailwindCSS',
+    name: 'Look at my notes!',
+    description: 'A Vue.js Application with Vuex, Implementing a CRUD notes App.',
     image: vuetodo,
-    hashtags:['todo','vue.js','javascript','tailwind'],
-    url:'https://vuetodo.rodolforoman.xyz/'
+    hashtags:['CRUD','vue.js','javascript','tailwind','vuex','vue-router'],
+    url:'https://mynotes.toparadise.online/'
 },
 ]
 export default projects
