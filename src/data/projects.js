@@ -12,35 +12,35 @@ const projects = [
         description: 'A vanilla HTML,  JS and CSS Todo Application',
         image: basictodo,
         hashtags:['todo','html5','css','javascript'],
-        url:'basictodo.toparadise.online'
+        url:'https://basictodo.toparadise.online'
     },
     {
         name: 'Todo App with Bootstrap',
         description: 'A Todo Application in Vanilla  Javascript and Bootstrap',
         image: todob,
         hashtags:['todo','html5','javascript','bootstrap'],
-        url:'todob.toparadise.online/'
+        url:'https://todob.toparadise.online/'
     },
     {
             name: 'Todo App with Tailwind',
             description: 'A Todo Application in Vanilla  Javascript and TailwindCSS',
             image: todot,
             hashtags:['todo','html5','javascript','tailwind'],
-            url:'todot.toparadise.online/'
+            url:'https://todot.toparadise.online/'
     },
     {
         name: 'Basic Inventory App',
         description: 'A Basic Inventory App in Vue.js',
         image:  inventory,
         hashtags:['inventory','vue.js','javascript','tailwind'],
-        url:'inventory.toparadise.online/'
+        url:'https://inventory.toparadise.online/'
     },
     {
         name: 'Todo App with Tailwind and Vue.js',
         description: 'A Todo Application in Vue.js and TailwindCSS',
         image: vuetodo,
         hashtags:['todo','vue.js','javascript','tailwind'],
-        url:'vuetodo.toparadise.online/'
+        url:'https://vuetodo.toparadise.online/'
 },
 {
     name: 'Look at my notes!',
